@@ -36,7 +36,7 @@ Suspending a virtual machine with Workstation on a Windows host
 
 ## 注意点
 
-スクリプトを実行するため、実行ポリシーは `RemoteSigned` 等に変更してください。
+スクリプトを実行するため、実行ポリシーは `RemoteSigned` 等に変更してください。  
 https://learn.microsoft.com/ja-jp/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.3
 
 ## ライセンス
