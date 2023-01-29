@@ -2,6 +2,8 @@
 
 VMware Workstation Player を Headless で起動/停止/サスペンドするためのスクリプト
 
+![demo](https://user-images.githubusercontent.com/37047035/215318011-4aaa1825-fe69-468f-b16f-c59657b6e1cb.png)
+
 ## 特徴
 
 VMware Workstation Player 上の仮想マシンを、GUIの画面を表示せずに起動/停止/サスペンドします
