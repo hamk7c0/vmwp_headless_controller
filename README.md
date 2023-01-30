@@ -1,6 +1,6 @@
 # vmwp_headless_controller
 
-VMware Workstation Player を Headless で起動/停止/サスペンドするためのスクリプト
+VMware Workstation Player を Headless で起動/停止/リセット/サスペンドするためのスクリプト
 
 ![demo](https://user-images.githubusercontent.com/37047035/215318011-4aaa1825-fe69-468f-b16f-c59657b6e1cb.png)
 
