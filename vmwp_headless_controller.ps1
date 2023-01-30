@@ -42,6 +42,10 @@ Process {
         Write-Host "  .\$script_file list"
 
         Write-Host ""
+        Write-Host "Resetting a virtual machine with Workstation on a Windows host"
+        Write-Host "  .\$script_file list"
+
+        Write-Host ""
         Write-Host "Starting a virtual machine with Workstation on a Windows host"
         Write-Host "  .\$script_file start [<VirtualMachineName>]"
 
