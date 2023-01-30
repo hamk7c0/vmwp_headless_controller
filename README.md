@@ -6,7 +6,7 @@ VMware Workstation Player を Headless で起動/停止/リセット/サスペ�
 
 ## 特徴
 
-VMware Workstation Player 上の仮想マシンを、GUIの画面を表示せずに起動/停止/サスペンドします
+VMware Workstation Player 上の仮想マシンを、GUIの画面を表示せずに起動/停止/リセット/サスペンドします
 
 ## テスト環境
 
