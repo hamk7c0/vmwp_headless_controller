@@ -25,6 +25,9 @@ VMWare Workstation Player をインストールした環境でスクリプト内
 List a virtual machine with Workstation on a Windows host
   .\vmwp_headless_controller.ps1 list
 
+Resetting a virtual machine with Workstation on a Windows host
+  .\vmwp_headless_controller.ps1 reset [<VirtualMachineName>]
+
 Starting a virtual machine with Workstation on a Windows host
   .\vmwp_headless_controller.ps1 start [<VirtualMachineName>]
 

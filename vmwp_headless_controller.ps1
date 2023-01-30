@@ -58,6 +58,7 @@ Process {
 
     Function check_mode(){
         $result = switch($mode){
+            "reset"   { ($null -ne $vmname) }
             "start"   { ($null -ne $vmname) }
             "stop"    { ($null -ne $vmname) }
             "suspend" { ($null -ne $vmname) }
